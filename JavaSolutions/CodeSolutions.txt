@@ -1,0 +1,6 @@
+Code Solutions:
+
+10.2:
+-In O(kn) time, create a list of (list of list) in which you pair the string with a ascii[26] array counting the letters
+-In O(n) time, hash every list of lists usuing the ascii[] array as the key and the word as the value
+-In O(n) time, traverse through the orginal list of lists, retrieving each value(s) from the hash and inserting them into a new array to return

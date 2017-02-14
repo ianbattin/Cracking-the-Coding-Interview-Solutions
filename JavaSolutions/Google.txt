@@ -1,0 +1,19 @@
+My Google Questions:
+-How has working at Google met and failed your expectations?
+-What kind of work does the average intern work on
+-Do most employees feel like their work is fulfilling and important?
+-Do you have any feedback for me?
+
+Interview Problems:
+ 1a) Given two strings (almost identical), return the inserted character in one of the strings
+      Ex) "abcd", "abcXd" -> Return 'X'
+          Note: The strings have the same ordering except for the inserted character
+ 1b) This is the same problem, however the strings may be scrambled
+      Ex) "bcda", "aXcdb" -> Return 'X'
+      
+ 2) Return the longest possible palindrome rearrangement of a given String.
+      Ex) "aba" -> "aba"
+          "aebcdadcb" -> "abcdedcba"
+          "adta" -> "ada" OR "ata"
+          "abc" -> "a" OR "b" OR "c"
+ 
